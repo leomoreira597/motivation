@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">motivalion</string>
+    <string name="ola">hello kotlin</string>
+    <string name="frase">Motivation</string>
+    <string name="btn">new phrse</string>
+    <string name="comecar">leis begin</string>
+    <string name="qual_o_seu_nome">whats your name</string>
+    <string name="salvar">salve</string>
+    <string name="validation">plis bla bla bla</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">motivalion</string>
+    <string name="ola">こんにちはkotlin</string>
+    <string name="btn">新しい文</string>
+    <string name="comecar">はじめましょう</string>
+    <string name="qual_o_seu_nome">名前は何？</string>
+    <string name="salvar">" 保存する"</string>
+    <string name="validation">名前を入力してください</string>
+</resources>

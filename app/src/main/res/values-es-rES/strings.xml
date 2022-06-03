@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Motivacion</string>
+    <string name="ola">!Hola!</string>
+    <string name="frase">motivacion</string>
+    <string name="btn">nueva frase</string>
+    <string name="comecar">vamolos começar</string>
+    <string name="qual_o_seu_nome">qual és su npmbre</string>
+    <string name="salvar">salvar</string>
+    <string name="validation">informale tu nombre</string>
+</resources>
